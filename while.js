@@ -29,4 +29,3 @@ while (b <= 10) {
 
 document.write("</ul>"); // List end
 
-//table ki trah
